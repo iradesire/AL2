@@ -1,0 +1,1 @@
+shopping_items=["apple","bread","milk"]
